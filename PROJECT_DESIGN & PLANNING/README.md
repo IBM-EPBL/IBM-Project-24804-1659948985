@@ -33,10 +33,10 @@ PLANNING_PHASE:
 
 PROJECT_DESIGN_PHASE_02:
 
- 1.Customer Journey Map
+1.Customer Journey Map
 
- 2.Solution Requirements
+2.Functional Requirements
 
- 3.Data flow diagram
+3.Data flow Diagram & User Stories
 
- 4.Technology Stack
+4.Technology Architecture
